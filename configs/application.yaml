@@ -1,0 +1,4 @@
+base:
+    version: "1"
+    pidfile: 100
+
